@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! 👋 Soy Alonso
+# ¡Hola! Soy Alonso
 
 ### Estudiante de Ingeniería en Tecnología de Software · FIME-UANL
 
@@ -8,7 +8,6 @@ Me gusta construir soluciones que funcionen de verdad: desde apps móviles hasta
 Actualmente busco **prácticas profesionales** para aprender y crecer en proyectos reales de software.
 
 ![Semestre](https://img.shields.io/badge/6%C2%BA_semestre-FIME--UANL-1f6feb?style=for-the-badge)
-![Inglés](https://img.shields.io/badge/Ingl%C3%A9s-C1-2ea44f?style=for-the-badge)
 ![Estado](https://img.shields.io/badge/Buscando-pr%C3%A1cticas-f78166?style=for-the-badge)
 
 </div>
@@ -20,8 +19,6 @@ Actualmente busco **prácticas profesionales** para aprender y crecer en proyect
 - 🎓 Estudio **Ingeniería en Tecnología de Software** en la FIME-UANL (Monterrey, México).
 - 🛠️ Vengo de un bachillerato técnico en **Sistemas Computacionales**.
 - 📜 Certificado en **Cisco Networking Academy** (2026) y diplomado en **Desarrollo de Sitios Web y Aplicaciones Móviles** (Fundación Carlos Slim, 2026).
-- ♟️ Campeón de ajedrez y ponente en el **XII Congreso de Ventas**: me gusta pensar en estrategia y comunicar ideas.
-- 🌎 Español nativo · Inglés C1.
 
 ---
 
@@ -43,21 +40,12 @@ Actualmente busco **prácticas profesionales** para aprender y crecer en proyect
 
 ---
 
-## 🚀 Proyectos destacados
 
-| Proyecto | Qué hace | Tecnologías |
-|---|---|---|
-| 🚚 [**Control de flotilla con geofencing**](https://github.com/AlonsoG20/PIA-DispositivosMoviles-Equipo9) | App móvil con tres roles: el chofer registra paradas, el despachador asigna rutas y el gerente supervisa. Genera reportes de paradas no autorizadas. | `Kotlin` `Android` |
-| 🥗 **Asesor nutricional** | API que recomienda combinaciones de alimentos usando un algoritmo genético y un módulo de optimización. | `Python` `Flask` `API REST` |
-| 📊 **Dashboard de planeación de demanda** | Proyecto académico con datos simulados: flujo ETL y visualización para planear la demanda de una empresa. | `ETL` `SQL` `pandas` |
+## Mi enfoque
 
----
-
-## 🎯 Mi enfoque
-
-- 🤝 Trabajo en equipo y colaboración con Git/GitHub.
-- 🧩 Resolver problemas dividiéndolos en partes simples.
-- 📚 Aprender herramientas nuevas rápido y ponerlas en práctica.
+- Trabajo en equipo y colaboración con Git/GitHub.
+- Resolver problemas dividiéndolos en partes simples.
+- Aprender herramientas nuevas rápido y ponerlas en práctica.
 
 ---
 
@@ -65,10 +53,9 @@ Actualmente busco **prácticas profesionales** para aprender y crecer en proyect
 
 [![GitHub](https://img.shields.io/badge/GitHub-AlonsoG20-181717?style=for-the-badge&logo=github)](https://github.com/AlonsoG20)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
-[![Correo](https://img.shields.io/badge/Correo-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO@ejemplo.com)
+[![Correo](https://img.shields.io/badge/Correo-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoa8117@gmail.com)
 
 <div align="center">
 
-⭐ *¡Gracias por pasar por mi perfil!* ⭐
 
 </div>
