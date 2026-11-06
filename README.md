@@ -7,7 +7,7 @@
 Me gusta construir soluciones que funcionen de verdad: desde apps móviles hasta APIs y análisis de datos.
 Actualmente busco **prácticas profesionales** para aprender y crecer en proyectos reales de software.
 
-![Semestre](https://img.shields.io/badge/6%C2%BA_semestre-FIME--UANL-1f6feb?style=for-the-badge)
+![Semestre](https://img.shields.io/badge/7%C2%BA_semestre-FIME--UANL-1f6feb?style=for-the-badge)
 ![Estado](https://img.shields.io/badge/Buscando-pr%C3%A1cticas-f78166?style=for-the-badge)
 
 </div>
@@ -53,7 +53,7 @@ Actualmente busco **prácticas profesionales** para aprender y crecer en proyect
 
 [![GitHub](https://img.shields.io/badge/GitHub-AlonsoG20-181717?style=for-the-badge&logo=github)](https://github.com/AlonsoG20)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
-[![Correo](https://img.shields.io/badge/Correo-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoa8117@gmail.com)
+[![Correo](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoa8117@gmail.com)
 
 <div align="center">
 
