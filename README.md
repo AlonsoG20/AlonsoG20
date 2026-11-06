@@ -52,8 +52,8 @@ Actualmente busco **prácticas profesionales** para aprender y crecer en proyect
 ## 📫 Contacto
 
 [![GitHub](https://img.shields.io/badge/GitHub-AlonsoG20-181717?style=for-the-badge&logo=github)](https://github.com/AlonsoG20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
-[![Correo](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoa8117@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
+[![Correo](https://img.shields.io/badge/Correo-ir-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoa8117@gmail.com)
 
 <div align="center">
 
